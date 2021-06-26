@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA and web
 - 💞️ I’m looking to collaborate on web
 - 📫 How to reach me 
--  linkedIn: https://www.linkedin.com/in/abhishek-upadhyaya-72548617a/
+-  linkedIn: https://www.linkedin.com/in/Abhishek-Upadhyaya/
 -  Mail: abhishekupadhyaya477@gmail.com
 
 <!---
