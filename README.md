@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web
 - 📫 How to reach me 
 -  linkedIn: https://www.linkedin.com/in/Abhishek-Upadhyaya/
--  Mail: abhishekupadhyaya477@gmail.com
+-  Mail: abhishekupadhyaya2022@gmail.com
 
 <!---
 abhishekupadhyaya477/abhishekupadhyaya477 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
