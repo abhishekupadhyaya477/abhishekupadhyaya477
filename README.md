@@ -7,8 +7,7 @@
 -  Mail: abhishekupadhyaya2022@gmail.com
 
 # [Abhishek Upadhyaya]
-
-<img align="left" alt="[Abhishek Upadhyaya]'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=[abhishekupadhyaya477]&show_icons=true&hide_border=true" />
+<img align="left" alt="[Your Name]'s GitHub Stats" src="https://github.com/abhishekupadhyaya477.png" width="200" />
 
 **Hi there, I'm [Abhishek Upadhyaya]!** I'm a [Software Developer] with a passion for [Crafting immersive and innovative web experiences ]. I'm currently working  [Jio Platforms Limited as an Angular Developer].
 
@@ -25,4 +24,5 @@
 Give a ⭐ if this project helped you!
 abhishekupadhyaya477/abhishekupadhyaya477 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img align="left" alt="[Abhishek Upadhyaya]'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=[abhishekupadhyaya477]&show_icons=true&hide_border=true" />
 --->
